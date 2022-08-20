@@ -1,1 +1,45 @@
 /*  CSS-file  */
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&display=swap');
+/* Box Model*/
+.container {
+max-width: 70%;
+font-size:76px;
+text-align:justify;
+font: 12pt/22pt open sans;
+margin:auto;
+}
+p, h2, h3, h4, h5{
+font-family:Arial;
+}
+.samuel{
+font-style: italic;
+padding-left:20px;
+margin:0px;
+line-height:1rem;
+font-size:18px;
+}
+
+.citat{
+text-align:justify;
+margin:auto;
+font-size:22px;
+font-style: italic;
+line-height: 1.5em;
+}
+
+.table{
+font-size
+}
+
+.psevdo-table{
+display:flex;
+}
+.otstup{
+margin-right:40px;
+}
+.left-otstup{
+margin-left:40px;
+}
+h1{
+font-size:32px;
+}
